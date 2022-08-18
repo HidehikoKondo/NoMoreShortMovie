@@ -5,7 +5,7 @@ window.addEventListener("scroll", function () {
 
     timeoutId = setTimeout(function () {
         console.log("search!!!!!!!!");
-        var ary = document.getElementsByClassName("c1et5uql");
+        var ary = document.getElementsByClassName("gvxzyvdx");
 
         const ary2 = Array.prototype.slice.call(ary);
         ary2.forEach(function (element) {
