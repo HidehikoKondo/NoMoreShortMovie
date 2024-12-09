@@ -26,7 +26,7 @@ window.addEventListener("scroll", function () {
 
         const ary2 = Array.prototype.slice.call(ary);
         ary2.forEach(function (element) {
-            if (element.innerHTML == "リールとショート動画") {
+            if (element.innerHTML == "リール") {
                 console.log("delete ShortMovie!!");
 
                 // n世代上の親を削除
